@@ -26,10 +26,6 @@ javac -d bin -sourcepath src -cp src/com/example/Application.java
 
 You only need to add generated build file to your Java project.
 
-## API Reference
-
-Depending on the size of the project, if it is small and simple enough the reference docs can be added to the README. For medium size to larger projects it is important to at least provide a link to where the API reference docs live.
-
 ## Attribution Requirements
 
 As an open source project, attribution is critical from a legal, practical and motivational perspective in my opinion.
